@@ -1,5 +1,4 @@
 <h2></h2>
-<br>
 <div>
   <img align="left" src="asset/dante.gif">
   <div>
@@ -65,7 +64,7 @@
     </a>
   </div>
   <div>
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;Workflow</h3>
+    <h3>&nbsp;&nbsp;&nbsp;&nbsp;Workflow</h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/">
       <img src="asset/workflow/git-original.svg" width="35" height="35">
@@ -78,5 +77,4 @@
     </a>
   </div>
 </div>
-<br>
 <h2></h2>
