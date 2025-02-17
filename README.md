@@ -92,11 +92,15 @@
 <h2></h2>
 <h3 align="center"><strong>Contact</strong></h3>
 <div align="center">
-    <img src="asset/contact/email-svgrepo-com.svg" width="35" height="35">
+    <a href="mailto:algadea@student.42.fr" target="_blank">
+      <img src="asset/contact/email-svgrepo-com.svg" title="algadea@student.42.fr" alt="algadea@student.42.fr" width="35" height="35">
+	</a>
     &nbsp;
-    <img src="asset/contact/discord-mark-blue.svg" width="35" height="35">
+    <img src="asset/contact/discord-mark-blue.svg" title="anska_" alt="Discord: anska_" width="35" height="35">
     &nbsp;
     <img src="asset/contact/reddit-svgrepo-com.svg" width="35" height="35">
     &nbsp;
-    <img src="asset/contact/linkedin-original.svg" width="35" height="35">
+	<a href="https://www.linkedin.com/in/alexandre-gadea/">
+      <img src="asset/contact/linkedin-original.svg" title="https://www.linkedin.com/in/alexandre-gadea/" alt="LinkedIn: https://www.linkedin.com/in/alexandre-gadea/"  width="35" height="35">
+	</a>
 </div>
