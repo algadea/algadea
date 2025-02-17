@@ -1,9 +1,4 @@
-<h2>
-  <em>
-  <strong>Software engineering student at <img align="center"src="asset/42paris.svg" width="40" height="40" >.
-  </em>
-  </strong>
-</h2>
+<h2><em><strong>Software engineering student at <img align="center"src="asset/42paris.svg" width="40" height="40" ></em></strong></h2>
 <div>
   <img align="right" src="asset/dante.gif">
   <div>
