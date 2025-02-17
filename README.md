@@ -1,22 +1,39 @@
-<h2></h2>
+<h2>
+  <em>
+  <strong>Software engineering student at <img align="center"src="asset/42logo.svg" width="40" height="40" >.
+  </em>
+  </strong>
+</h2>
 <div>
   <img align="right" src="asset/dante.gif">
   <div>
-  <h3 align="left">
-  <em>
-  <strong>Software engineering student at<img align="center"src="asset/42logo.svg" width="40" height="30" >.
-  </em>
-  </strong>
-  </h3>
-  <h4><strong>System:</strong></h4>
-  <h4><strong>Graphic:</strong></h4>
-  <h4><strong>Network:</strong></h4>
-  <h4><strong>Full-stack:</strong></h4>
-  <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia leo ligula, nec varius nisi gravida sed. Nullam sed tortor est. Nulla vehicula vel leo et malesuada. Curabitur massa neque, scelerisque sed dignissim ac, lacinia eget ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam tempus volutpat erat at dignissim. Curabitur euismod vestibulum tempus. Suspendisse potenti. Cras posuere, elit eu vehicula dictum, nisl ante eleifend nisl, vel maximus leo lorem vitae erat. Donec egestas pellentesque pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus dictum dui venenatis augue dignissim elementum. Proin tincidunt sapien felis, ut consequat lorem condimentum ut. Pellentesque dignissim orci id mauris lacinia accumsan. In blandit auctor lacus a mollis.
-  </p>
-  <h2></h2>
-  </div>
+    <h3 align="left"><em><strong>Practice:</em></strong></h3>
+    <h4><strong>System programming:</strong></h4>
+    <ul>
+      <li>Multiprocessing | Multithreading (POSIX)</li>
+      <li>Shell implementation (Bash mirror)</li>
+    </ul>
+    <h4><strong>Graphic programming:</strong></h4>
+    <ul>
+      <li>2D Game | Wireframe | Fractal</li>
+      <li>Rendering pipeline</li>
+      <li>Raycasting | Raytracing</li>
+    </ul>
+    <h4><strong>Network programming:</strong></h4>
+    <ul>
+      <li>Web-Server | IRC implementation (UNIX socket)</li>
+    </ul>
+    <h4><strong>System administration:</strong></h4>
+    <ul>
+      <li>Linux distribution setup</li>
+      <li>Docker deployment</li>
+    </ul>
+    <h4><strong>Full-stack programming:</strong></h4>
+    <ul>
+      <li>Full dynamic website implementation</li>
+    </ul>
+    <h2></h2>
+    </div>
   <div>
     <h3><em><strong>Language</strong><em></h3>
     &nbsp;&nbsp;
