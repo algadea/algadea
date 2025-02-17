@@ -77,7 +77,7 @@
     &nbsp;
     <img src="asset/editor/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="35" height="35">
     &nbsp;
-    <img src="asset/editor/vscode-original.svg" tile="Vscode" alt="Vscode" width="35" height="35">
+    <img src="asset/editor/vscode-original.svg" title="Vscode" alt="Vscode" width="35" height="35">
   </div>
   <div>
     <h3><em><strong>Workflow</strong></em></h3>
