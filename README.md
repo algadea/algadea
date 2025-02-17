@@ -30,7 +30,7 @@
     <h2></h2>
     </div>
   <div>
-    <h3><em><strong>Language</strong><em></h3>
+    <h3><em><strong>Language</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/language/icons8-bash.svg" width="35" height="35">
     &nbsp;
@@ -58,7 +58,7 @@
     <img src="asset/platform/Apple_logo_grey.svg" width="35">
   </div>
   <div>
-    <h3><em><strong>Distro</strong><em></h3>
+    <h3><em><strong>Distro</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/distro/fedora-original.svg" width="35" height="35">
     &nbsp;
@@ -90,6 +90,7 @@
   </div>
 </div>
 <h2></h2>
+<h3 align="center"><strong>Contact</strong></h3>
 <div align="center">
     <img src="asset/contact/email-svgrepo-com.svg" width="35" height="35">
     &nbsp;
