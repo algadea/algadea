@@ -1,6 +1,6 @@
 <h2>
   <em>
-  <strong>Software engineering student at <img align="center"src="asset/42logo.svg" width="40" height="40" >.
+  <strong>Software engineering student at <img align="center"src="asset/42paris.svg" width="40" height="40" >.
   </em>
   </strong>
 </h2>
@@ -60,16 +60,18 @@
     &nbsp;
     <img src="asset/platform/android-original.svg" width="35" height="35">
     &nbsp;
-    <img src="asset/platform/apple-original.svg" width="35" height="35">
+    <img src="asset/platform/Apple_logo_grey.svg" width="35">
   </div>
   <div>
     <h3><em><strong>Distro</strong><em></h3>
     &nbsp;&nbsp;
-    <img src="asset/platform/fedora-original.svg" width="35" height="35">
+    <img src="asset/distro/fedora-original.svg" width="35" height="35">
     &nbsp;
-    <img src="asset/platform/debian-original.svg" width="35" height="35">
+    <img src="asset/distro/debian-original.svg" width="35" height="35">
     &nbsp;
-    <img src="asset/platform/archlinux-original.svg" width="35" height="35">
+    <img src="asset/distro/archlinux-original.svg" width="35" height="35">
+    &nbsp;
+    <img src="asset/distro/raspberrypi-original.svg" width="35" height="35">
   </div>
   <div>
     <h3><em><strong>Editor</em></strong></h3>
@@ -89,7 +91,16 @@
     &nbsp;
     <img src="asset/workflow/notion-original.svg" width="35" height="35">
     &nbsp;
-    <img src="asset/workflow/drawlogo-color.svg" width="35" height="35">
+    <img src="asset/workflow/drawio-svgrepo-com.svg" width="35" height="35">
   </div>
 </div>
 <h2></h2>
+<div align="center">
+    <img src="asset/contact/email-svgrepo-com.svg" width="35" height="35">
+    &nbsp;
+    <img src="asset/contact/discord-mark-blue.svg" width="35" height="35">
+    &nbsp;
+    <img src="asset/contact/reddit-svgrepo-com.svg" width="35" height="35">
+    &nbsp;
+    <img src="asset/contact/linkedin-original.svg" width="35" height="35">
+</div>
