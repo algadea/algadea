@@ -1,4 +1,4 @@
-<h2><em><strong>Software engineering student at <img align="center"src="asset/42paris.svg" width="40" height="40" ></em></strong></h2>
+<h2><em><strong>IT student at <img align="center"src="asset/42paris.svg" width="40" height="40" ></em></strong></h2>
 <div>
   <img align="right" src="asset/gustavedore.gif" title="© Gustave Doré - Dante's Divine Comedy (animated with KlingAI by myself)" alt="© Gustave Doré - Dante's Divine Comedy (animated with KlingAI by myself)">
   <div>
@@ -88,7 +88,7 @@
     &nbsp;
     <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" width="35" height="35">
     &nbsp;
-    <img src="asset/workflow/tmux-logo.svg" title="Drawio" alt="Drawio" width="90" height="35">
+    <img src="asset/workflow/tmux-logo.svg" title="Drawio" alt="Drawio" width="95" height="35">
   </div>
 </div>
 <h2></h2>
