@@ -88,7 +88,7 @@
     &nbsp;
     <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" width="35" height="35">
     &nbsp;
-    <img src="asset/workflow/tmux-logo.svg" title="Drawio" alt="Drawio" width="95" height="35">
+    <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
   </div>
 </div>
 <h2></h2>
