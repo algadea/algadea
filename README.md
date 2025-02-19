@@ -87,6 +87,8 @@
     <img src="asset/workflow/notion-original.svg" title="Notion" alt="Notion" width="35" height="35">
     &nbsp;
     <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" width="35" height="35">
+    &nbsp;
+    <img src="asset/workflow/tmux-logo.svg" title="Drawio" alt="Drawio" width="90" height="35">
   </div>
 </div>
 <h2></h2>
