@@ -32,7 +32,7 @@
   <div>
 </div>
     <h3><em><strong>Language</strong></em></h3>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"  />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"  />
     &nbsp;&nbsp;
     <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
     &nbsp;
