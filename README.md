@@ -29,8 +29,8 @@
     </ul>
     <h2></h2>
   </div>
-  <div>
 </div>
+  <div>
     <h3><em><strong>Language</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
@@ -107,7 +107,7 @@
     &nbsp;
     <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
   </div>
-</br>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" title="Activity graph" alt="Activity graph"/>
 </div>
