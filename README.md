@@ -30,8 +30,8 @@
     <h2></h2>
   </div>
   <div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"/>
 </div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"  />
     <h3><em><strong>Language</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
@@ -59,7 +59,7 @@
     <img src="asset/api/opengl-logo.svg.png" title="OpenGL" alt="OpenGL" height="35">
     &nbsp;
     <img src="asset/api/sdl-logo.svg.png" title="Django" alt="Django" height="30">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"  />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"/>
     <h3><em><strong>Platform</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
@@ -109,7 +109,7 @@
   </div>
 </br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" title="Activity graph" alt="Activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" title="Activity graph" alt="Activity graph"/>
 </div>
 <h2></h2>
 <h3 align="center"><strong>Contact</strong></h3>
