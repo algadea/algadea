@@ -48,8 +48,8 @@
     <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" height="35">
     &nbsp;
     <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"/>
-    <h3><em><strong>Framework</strong></em></h3>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"/>
+    <!-- <h3><em><strong>Framework</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/framework/nodejs-original.svg" title="Nodejs" alt="Nodejs" height="35">
     &nbsp;&nbsp;
@@ -58,8 +58,7 @@
     &nbsp;&nbsp;
     <img src="asset/api/opengl-logo.svg.png" title="OpenGL" alt="OpenGL" height="35">
     &nbsp;
-    <img src="asset/api/sdl-logo.svg.png" title="Django" alt="Django" height="30">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"/>
+    <img src="asset/api/sdl-logo.svg.png" title="Django" alt="Django" height="30"> -->
     <h3><em><strong>Platform</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
@@ -73,6 +72,7 @@
     <img src="asset/platform/bsd-logo.svg.png" title="BSD" alt="BSD" height="30">
   </div>
   <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="170" title="Stats graph" alt="Stats graph"/>
     <h3><em><strong>Distro</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" height="35">
