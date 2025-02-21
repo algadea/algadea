@@ -30,66 +30,74 @@
     <h2></h2>
   </div>
   <div>
+</div>
     <h3><em><strong>Language</strong></em></h3>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"  />
     &nbsp;&nbsp;
-    <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash"  width="35" height="35">
+    <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
     &nbsp;
-    <img src="asset/language/powershell-original.svg" title="Powershell" alt="Powershell" width="35" height="35">
+    <img src="asset/language/powershell-original.svg" title="Powershell" alt="Powershell" height="35">
     &nbsp;
-    <img src="asset/language/c-original.svg" title="C" alt="C" width="35" height="35">
+    <img src="asset/language/c-original.svg" title="C" alt="C" height="35">
     &nbsp;
-    <img src="asset/language/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35">
+    <img src="asset/language/cplusplus-original.svg" title="C++" alt="C++" height="35">
     &nbsp;
-    <img src="asset/language/rust-original.svg" title="Rust" alt="Rust" width="35" height="35">
+    <img src="asset/language/rust-original.svg" title="Rust" alt="Rust" height="35">
     &nbsp;
-    <img src="asset/language/python-original.svg" title="Python" alt="Python" width="35" height="35">
+    <img src="asset/language/python-original.svg" title="Python" alt="Python" height="35">
     &nbsp;
-    <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" width="35" height="35">
-  </div>
-  <div>
+    <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" height="35">
     <h3><em><strong>Platform</strong></em></h3>
     &nbsp;&nbsp;
-    <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" width="35" height="30">
+    <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
     &nbsp;
-    <img src="asset/platform/linux-original.svg" title="Linux" alt="Linux" width="35" height="35">
+    <img src="asset/platform/linux-original.svg" title="Linux" alt="Linux" height="35">
     &nbsp;
-    <img src="asset/platform/android-original.svg" title="Android" alt="Android" width="35" height="35">
+    <img src="asset/platform/android-original.svg" title="Android" alt="Android" height="35">
     &nbsp;
-    <img src="asset/platform/Apple_logo_grey.svg" title="Apple" alt="Apple" width="35">
+    <img src="asset/platform/apple-logo.svg" title="Apple" alt="Apple" height="35">
+    &nbsp;
+    <img src="asset/platform/bsd-logo.svg.png" title="BSD" alt="BSD" height="30">
   </div>
   <div>
     <h3><em><strong>Distro</strong></em></h3>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"  />
     &nbsp;&nbsp;
-    <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" width="35" height="35">
+    <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" height="35">
     &nbsp;
-    <img src="asset/distro/debian-original.svg" title="Debian" alt="Debian" width="35" height="35">
+    <img src="asset/distro/debian-original.svg" title="Debian" alt="Debian" height="35">
     &nbsp;
-    <img src="asset/distro/archlinux-original.svg" title="Arch" alt="Arch" width="35" height="35">
+    <img src="asset/distro/raspberrypi-original.svg" title="Raspbian" alt="Raspbian" height="35">
     &nbsp;
-    <img src="asset/distro/raspberrypi-original.svg" title="Raspbian" alt="Raspbian" width="35" height="35">
+    <img src="asset/distro/archlinux-original.svg" title="Arch" alt="Arch" height="35">
+    &nbsp;
+    <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
   </div>
   <div>
     <h3><em><strong>Editor</em></strong></h3>
     &nbsp;&nbsp;
-    <img src="asset/editor/vim-original.svg" title="Vim" alt="Vim" width="35" height="35">
+    <img src="asset/editor/vim-original.svg" title="Vim" alt="Vim" height="35">
     &nbsp;
-    <img src="asset/editor/neovim-original.svg" title="Neovim" alt="Neovim" width="35" height="35">
+    <img src="asset/editor/neovim-original.svg" title="Neovim" alt="Neovim" height="35">
     &nbsp;
-    <img src="asset/editor/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="35" height="35">
+    <img src="asset/editor/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" height="35">
     &nbsp;
-    <img src="asset/editor/vscode-original.svg" title="Vscode" alt="Vscode" width="35" height="35">
+    <img src="asset/editor/vscode-original.svg" title="Vscode" alt="Vscode" height="35">
   </div>
   <div>
     <h3><em><strong>Workflow</strong></em></h3>
     &nbsp;&nbsp;
-    <img src="asset/workflow/git-original.svg" title="Git" alt="Git" width="35" height="35">
+    <img src="asset/workflow/git-original.svg" title="Git" alt="Git" height="35">
     &nbsp;
-    <img src="asset/workflow/notion-original.svg" title="Notion" alt="Notion" width="35" height="35">
+    <img src="asset/workflow/notion-original.svg" title="Notion" alt="Notion" height="35">
     &nbsp;
-    <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" width="35" height="35">
+    <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" height="35">
     &nbsp;
     <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
   </div>
+</br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" title="Activity graph" alt="Activity graph"  />
 </div>
 <h2></h2>
 <h3 align="center"><strong>Contact</strong></h3>
