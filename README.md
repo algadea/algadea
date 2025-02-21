@@ -30,7 +30,6 @@
     <h2></h2>
   </div>
   <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"/>
 </div>
     <h3><em><strong>Language</strong></em></h3>
     &nbsp;&nbsp;
@@ -49,6 +48,7 @@
     <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" height="35">
     &nbsp;
     <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" title="Stats graph" alt="Stats graph"/>
     <h3><em><strong>Framework</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/framework/nodejs-original.svg" title="Nodejs" alt="Nodejs" height="35">
