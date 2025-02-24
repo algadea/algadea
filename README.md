@@ -48,7 +48,7 @@
     <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" height="35">
     &nbsp;
     <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="60" title="Languages graph" alt="Languages graph"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="105" title="Languages graph" alt="Languages graph"/>
     <!-- <h3><em><strong>Framework</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/framework/nodejs-original.svg" title="Nodejs" alt="Nodejs" height="35">
