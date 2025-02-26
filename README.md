@@ -82,7 +82,7 @@
     <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
   </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="165" alt="stats graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=false&order=1" height="165" alt="stats graph">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
 </picture>
