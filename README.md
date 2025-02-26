@@ -30,6 +30,7 @@
     <h2></h2>
   </div>
 </div>
+<div>
   <div>
     <h3><em><strong>Language</strong></em></h3>
     &nbsp;&nbsp;
@@ -48,17 +49,9 @@
     <img src="asset/language/lua-original.svg" title="Lua" alt="Lua" height="35">
     &nbsp;
     <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="105" title="Languages graph" alt="Languages graph"/>
-    <!-- <h3><em><strong>Framework</strong></em></h3>
-    &nbsp;&nbsp;
-    <img src="asset/framework/nodejs-original.svg" title="Nodejs" alt="Nodejs" height="35">
-    &nbsp;&nbsp;
-    <img src="asset/framework/django-logo.svg" title="Django" alt="Django" height="35">
-    <h3><em><strong>API</strong></em></h3>
-    &nbsp;&nbsp;
-    <img src="asset/api/opengl-logo.svg.png" title="OpenGL" alt="OpenGL" height="35">
-    &nbsp;
-    <img src="asset/api/sdl-logo.svg.png" title="Django" alt="Django" height="30"> -->
+  </div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vision-friendly-dark&hide_border=true&order=2" height="110" alt="languages graph"  />
+  <div>
     <h3><em><strong>Platform</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
@@ -71,9 +64,8 @@
     &nbsp;
     <img src="asset/platform/bsd-logo.svg.png" title="BSD" alt="BSD" height="30">
   </div>
-  <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="170" title="Stats graph" alt="Stats graph"/>
-    <h3><em><strong>Distro</strong></em></h3>
+  <div align="left">
+    <h3><em><strong>Distribution</strong></em></h3>
     &nbsp;&nbsp;
     <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" height="35">
     &nbsp;
@@ -85,6 +77,7 @@
     &nbsp;
     <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
   </div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <div>
     <h3><em><strong>Editor</em></strong></h3>
     &nbsp;&nbsp;
@@ -107,9 +100,10 @@
     &nbsp;
     <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
   </div>
+</div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" title="Activity graph" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=true&bg_color=000000" height="300" alt="activity-graph graph"  />
 </div>
 <h2></h2>
 <h3 align="center"><strong>Contact</strong></h3>
@@ -119,8 +113,6 @@
     </a>
     &nbsp;
     <img src="asset/contact/discord-mark-blue.svg" title="anska_" alt="Discord: anska_" width="35" height="35">
-    &nbsp;
-    <img src="asset/contact/reddit-svgrepo-com.svg" width="35" height="35">
     &nbsp;
     <a href="https://www.linkedin.com/in/alexandre-gadea/">
       <img src="asset/contact/linkedin-original.svg" title="https://www.linkedin.com/in/alexandre-gadea/" alt="LinkedIn: https://www.linkedin.com/in/alexandre-gadea/"  width="35" height="35">
