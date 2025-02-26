@@ -50,7 +50,11 @@
     &nbsp;
     <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
   </div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vision-friendly-dark&hide_border=true&order=2" height="110" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vision-friendly-dark&hide_border=true&order=2" height="110" alt="languages graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=graywhite&hide_border=false&order=2" height="110" alt="languages graph">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=algadea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=graywhite&hide_border=false&order=2" height="110" alt="languages graph"  />
+  </picture>
   <div>
     <h3><em><strong>Platform</strong></em></h3>
     &nbsp;&nbsp;
@@ -77,7 +81,11 @@
     &nbsp;
     <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
   </div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="165" alt="stats graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=false&order=1" height="165" alt="stats graph">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=algadea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
+</picture>
   <div>
     <h3><em><strong>Editor</em></strong></h3>
     &nbsp;&nbsp;
@@ -103,7 +111,11 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=true&bg_color=000000" height="300" alt="activity-graph graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=true&bg_color=000000" height="300" alt="activity-graph graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=algadea&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+  </picture>
 </div>
 <h2></h2>
 <h3 align="center"><strong>Contact</strong></h3>
