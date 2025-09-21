@@ -78,7 +78,7 @@
         <img src="asset/distro/archlinux-original.svg" title="Arch" alt="Arch" height="35">
         &nbsp;
         <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
-        <h5><strong>Tools</strong></h5>
+        <h5><strong>Tool</strong></h5>
         &nbsp;
         <img src="asset/editor/vim-original.svg" title="Vim" alt="Vim" height="35">
         &nbsp;
