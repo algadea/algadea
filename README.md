@@ -40,7 +40,7 @@
     <br>
     <a href="https://tryhackme.com/p/anska"><strong>tryhackme.com/anska</strong></a>
     <br>
-    <a href="https://app.hackthebox.com/profile/overview"><strong>hackthebox/anska</strong></a>
+    <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox/anska</strong></a>
     <br>
     <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf.org/anska</strong></a>
     <br>
