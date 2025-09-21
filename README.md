@@ -6,7 +6,7 @@
     <h4><strong>System programming:</strong></h4>
     <ul>
       <li>Multiprocessing | Multithreading (POSIX)</li>
-      <li>Mini-shell (Bash mirror)</li>
+      <li>Minishell (Bash mirror)</li>
     </ul>
     <h4><strong>Graphic programming:</strong></h4>
     <ul>
@@ -15,7 +15,7 @@
     </ul>
     <h4><strong>Network programming:</strong></h4>
     <ul>
-      <li>Web-server | IRC chat</li>
+      <li>Web server | IRC chat</li>
     </ul>
     <h4><strong>System administration:</strong></h4>
     <ul>
@@ -24,7 +24,7 @@
     </ul>
     <h4><strong>Full-stack programming:</strong></h4>
     <ul>
-      <li>Web application (pong)</li>
+      <li>Web application (Pong game)</li>
     </ul>
   </div>
 </div>
