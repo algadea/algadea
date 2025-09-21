@@ -33,86 +33,85 @@
   <br>
   <div align="center">
     <table width="100%">
-    <td align="center" valign="top">
-    <h3><strong>CTF</strong></h3>
-    <hr>
-    <a href="https://www.root-me.org/anska"><strong>root-me.org/anska</strong></a>
-    <br>
-    <a href="https://tryhackme.com/p/anska"><strong>tryhackme.com/anska</strong></a>
-    <br>
-    <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox/anska</strong></a>
-    <br>
-    <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf.org/anska</strong></a>
-    <br>
-    </td>
-    <td align="center" valign="top">
-    <h3><strong>Technology</strong</h3>
-    <hr>
-    <h5><strong>Language</strong></h5>
-    &nbsp;
-    <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
-    &nbsp;
-    <img src="asset/language/powershell-original.svg" title="Powershell" alt="Powershell" height="35">
-    &nbsp;
-    <img src="asset/language/c-original.svg" title="C" alt="C" height="35">
-    &nbsp;
-    <img src="asset/language/cplusplus-original.svg" title="C++" alt="C++" height="35">
-    &nbsp;
-    <img src="asset/language/python-original.svg" title="Python" alt="Python" height="35">
-    &nbsp;
-    <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
-    <h5><strong>Platform</strong></h5>
-    &nbsp;
-    <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
-    &nbsp;
-    <img src="asset/platform/linux-original.svg" title="Linux" alt="Linux" height="35">
-    &nbsp;
-    <img src="asset/platform/android-original.svg" title="Android" alt="Android" height="35">
-    &nbsp;
-    <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" height="35">
-    &nbsp;
-    <img src="asset/distro/debian-original.svg" title="Debian" alt="Debian" height="35">
-    &nbsp;
-    <img src="asset/distro/raspberrypi-original.svg" title="Raspbian" alt="Raspbian" height="35">
-    &nbsp;
-    <img src="asset/distro/archlinux-original.svg" title="Arch" alt="Arch" height="35">
-    &nbsp;
-    <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
-    <h5><strong>Tools</strong></h5>
-    &nbsp;
-    <img src="asset/editor/vim-original.svg" title="Vim" alt="Vim" height="35">
-    &nbsp;
-    <img src="asset/editor/neovim-original.svg" title="Neovim" alt="Neovim" height="35">
-    &nbsp;
-    <img src="asset/editor/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" height="35">
-    &nbsp;
-    <img src="asset/editor/vscode-original.svg" title="Vscode" alt="Vscode" height="35">
-    &nbsp;
-    <img src="asset/workflow/git-original.svg" title="Git" alt="Git" height="35">
-    &nbsp;
-    <img src="asset/workflow/notion-original.svg" title="Notion" alt="Notion" height="35">
-    &nbsp;
-    <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" height="35">
-    &nbsp;
-    <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
-    </td>
-    <td align="center" valign="top">
-    <h3><strong>Coding</strong></h3>
-    <hr>
-    <a href="https://leetcode.com/u/anska_/"><strong>leetcode.com/anska</strong></a>
-    <br>
-    <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame.com/anska</strong></a>
-    <br>
-    <a href="https://www.codewars.com/users/anska"><strong>codewars.com/anska</strong></a>
-    <br>
-    </td>
+      <td align="center" valign="top">
+        <h3><strong>CTF</strong></h3>
+        <hr>
+        <a href="https://www.root-me.org/anska"><strong>root-me.org/anska</strong></a>
+        <br>
+        <a href="https://tryhackme.com/p/anska"><strong>tryhackme.com/anska</strong></a>
+        <br>
+        <a href="https://app.hackthebox.com/users/2283278"><strong>hackthebox/anska</strong></a>
+        <br>
+        <a href="https://www.42ctf.org/en/accounts/profile/anska?"><strong>42ctf.org/anska</strong></a>
+        <br>
+      </td>
+      <td align="center" valign="top">
+        <h3><strong>Technology</strong</h3>
+        <hr>
+        <h5><strong>Language</strong></h5>
+        &nbsp;
+        <img src="asset/language/icons8-bash.svg" title="Bash" alt="Bash" height="35">
+        &nbsp;
+        <img src="asset/language/powershell-original.svg" title="Powershell" alt="Powershell" height="35">
+        &nbsp;
+        <img src="asset/language/c-original.svg" title="C" alt="C" height="35">
+        &nbsp;
+        <img src="asset/language/cplusplus-original.svg" title="C++" alt="C++" height="35">
+        &nbsp;
+        <img src="asset/language/python-original.svg" title="Python" alt="Python" height="35">
+        &nbsp;
+        <img src="asset/language/javascript-original.svg" title="Javascript" alt="Javascript" height="33">
+        <h5><strong>Platform</strong></h5>
+        &nbsp;
+        <img src="asset/platform/windows11-original.svg" title="Windows" alt="Windows" height="30">
+        &nbsp;
+        <img src="asset/platform/linux-original.svg" title="Linux" alt="Linux" height="35">
+        &nbsp;
+        <img src="asset/platform/android-original.svg" title="Android" alt="Android" height="35">
+        &nbsp;
+        <img src="asset/distro/fedora-original.svg" title="Fedora" alt="Fedora" height="35">
+        &nbsp;
+        <img src="asset/distro/debian-original.svg" title="Debian" alt="Debian" height="35">
+        &nbsp;
+        <img src="asset/distro/raspberrypi-original.svg" title="Raspbian" alt="Raspbian" height="35">
+        &nbsp;
+        <img src="asset/distro/archlinux-original.svg" title="Arch" alt="Arch" height="35">
+        &nbsp;
+        <img src="asset/distro/freebsd-logo.png" title="FreeBSD" alt="FreeBSD" height="35">
+        <h5><strong>Tools</strong></h5>
+        &nbsp;
+        <img src="asset/editor/vim-original.svg" title="Vim" alt="Vim" height="35">
+        &nbsp;
+        <img src="asset/editor/neovim-original.svg" title="Neovim" alt="Neovim" height="35">
+        &nbsp;
+        <img src="asset/editor/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" height="35">
+        &nbsp;
+        <img src="asset/editor/vscode-original.svg" title="Vscode" alt="Vscode" height="35">
+        &nbsp;
+        <img src="asset/workflow/git-original.svg" title="Git" alt="Git" height="35">
+        &nbsp;
+        <img src="asset/workflow/notion-original.svg" title="Notion" alt="Notion" height="35">
+        &nbsp;
+        <img src="asset/workflow/drawio-svgrepo-com.svg" title="Drawio" alt="Drawio" height="35">
+        &nbsp;
+        <img src="asset/workflow/tmux-logo.svg" title="Tmux" alt="Tmux" width="95" height="35">
+      </td>
+      <td align="center" valign="top">
+        <h3><strong>Coding</strong></h3>
+        <hr>
+        <a href="https://leetcode.com/u/anska_/"><strong>leetcode.com/anska</strong></a>
+        <br>
+        <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame.com/anska</strong></a>
+        <br>
+        <a href="https://www.codewars.com/users/anska"><strong>codewars.com/anska</strong></a>
+        <br>
+      </td>
     </table>
   </div>
 </div>
 <div align="center">
   <a href="https://anska.dev"><strong>anska.dev</strong></a>
 </div>
-<div align="center">
 <h2></h2>
 <div align="center">
   <h3><strong>Contact</strong></h3>
