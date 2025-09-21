@@ -110,7 +110,9 @@
   </div>
 </div>
 <div align="center">
-<br>
+  <a href="https://anska.dev"><strong>anska.dev</strong></a>
+</div>
+<div align="center">
 <h2></h2>
 <div align="center">
   <h3><strong>Contact</strong></h3>
@@ -123,7 +125,4 @@
   <a href="https://www.linkedin.com/in/alexandre-gadea/">
     <img src="asset/contact/linkedin-original.svg" title="https://www.linkedin.com/in/alexandre-gadea/" alt="LinkedIn: https://www.linkedin.com/in/alexandre-gadea/"  width="35" height="35">
   </a>
-</div>
-<div align="center">
-  <a href="https://anska.dev"><strong>anska.dev</strong></a>
 </div>
