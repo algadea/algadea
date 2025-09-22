@@ -99,7 +99,7 @@
       <td align="center" valign="top">
         <h3><strong>Coding</strong></h3>
         <hr>
-        <a href="https://leetcode.com/u/anska_/"><strong>leetcode.com/anska</strong></a>
+        <a href="https://leetcode.com/u/anska-lc/"><strong>leetcode.com/anska</strong></a>
         <br>
         <a href="https://www.codingame.com/profile/6160140ea161f06ea18df960622d480e6694884"><strong>codingame.com/anska</strong></a>
         <br>
